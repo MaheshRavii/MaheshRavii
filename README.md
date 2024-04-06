@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MaheshRavii
-- 👀 I’m interested in Java, Javascript and HTML & CSS
-- 🌱 I’m currently learning Java and HTML & CSS
+- 👀 I’m interested in Java and Python
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Java App Developing 
-- 📫 How to reach me - - Instagram ID - ig_mahesh_ravi
+- 📫 To reach me - - Instagram ID - ig_mahesh_ravi
 
 <!---
 MaheshRavii/MaheshRavii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
