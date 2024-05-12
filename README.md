@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MaheshRavii
 - 👀 I’m interested in Java and Python
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python & DSA
 - 💞️ I’m looking to collaborate on Java App Developing 
 - 📫 To reach me - - Instagram ID - ig_mahesh_ravi
 
